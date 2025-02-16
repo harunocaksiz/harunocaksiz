@@ -1,4 +1,5 @@
-<img align="left" src="assets/ho_light.png" width="100">
+<img align="left" src="assets/ho_light.png#gh-light-mode-only" width="100">
+<img align="left" src="assets/ho_dark.png#gh-dark-mode-only" width="100">
 
 ### Hey!
 
