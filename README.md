@@ -11,7 +11,7 @@ I'm here to make logos for open source projects!
 
 ## My work 🎨
 
-I have designed the following logos for the following projects:
+I have designed a logo for the following projects:
 
 ### Binsider
 
@@ -41,8 +41,9 @@ I have designed the following logos for the following projects:
 <img src="assets/grindhouse_dark.png#gh-dark-mode-only" width="200">
 
 **Repository:** [https://github.com/grindhousedev](https://github.com/grindhousedev)  
-**Description:** A community for developers, artists, and visionaries  
-**License:** Not specified
+**Description:** A community for developers, artists, and visionaries
+
+---
 
 ## Contact ✉️
 
