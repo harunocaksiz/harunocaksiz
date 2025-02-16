@@ -15,8 +15,8 @@ I have designed the following logos for the following projects:
 
 ### Binsider
 
-<img src="assets/binsider_light.png#gh-light-mode-only" width="300">
-<img src="assets/binsider_dark.png#gh-dark-mode-only" width="300">
+<img src="assets/binsider_light.png#gh-light-mode-only" width="250">
+<img src="assets/binsider_dark.png#gh-dark-mode-only" width="250">
 
 **Repository:** [https://github.com/orhun/binsider](https://github.com/orhun/binsider)  
 **Description:** A terminal UI for analyzing ELF binaries  
@@ -26,8 +26,8 @@ I have designed the following logos for the following projects:
 
 ### Trippy
 
-<img src="assets/trippy_light.png#gh-light-mode-only" width="300">
-<img src="assets/trippy_dark.png#gh-dark-mode-only" width="300">
+<img src="assets/trippy_light.png#gh-light-mode-only" width="250">
+<img src="assets/trippy_dark.png#gh-dark-mode-only" width="250">
 
 **Repository:** [https://github.com/fujiapple852/trippy](https://github.com/fujiapple852/trippy)  
 **Description:** A network diagnostic tool  
@@ -37,8 +37,8 @@ I have designed the following logos for the following projects:
 
 ### Grindhouse
 
-<img src="assets/grindhouse_light.png#gh-light-mode-only" width="300">
-<img src="assets/grindhouse_dark.png#gh-dark-mode-only" width="300">
+<img src="assets/grindhouse_light.png#gh-light-mode-only" width="200">
+<img src="assets/grindhouse_dark.png#gh-dark-mode-only" width="200">
 
 **Repository:** [https://github.com/grindhousedev](https://github.com/grindhousedev)  
 **Description:** A community for developers, artists, and visionaries  
