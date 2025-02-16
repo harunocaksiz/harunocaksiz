@@ -13,11 +13,11 @@ I'm here to make logos for open source projects!
 
 I have designed the following logos for the following projects:
 
-|     | Project        | Repository                             | Description                                              | License           |
-| --- | -------------- | -------------------------------------- | -------------------------------------------------------- | ----------------- |
-|     | **Binsider**   | https://github.com/orhun/binsider      | A terminal UI for analyzing ELF binaries                 | MIT or Apache-2.0 |
-|     | **Trippy**     | https://github.com/fujiapple852/trippy | A network diagnostic tool                                | Apache-2.0        |
-|     | **Grindhouse** | https://github.com/grindhousedev       | A community for for developers, artists, and visionaries |                   |
+|                                                                                                                                                                       | Project        | Repository                             | Description                                              | License           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------- | -------------------------------------------------------- | ----------------- |
+| <img align="left" src="assets/binsider_light.png#gh-dark-mode-only" width="200"> <img align="left" src="assets/binsider_dark.png#gh-light-mode-only" width="200">     | **Binsider**   | https://github.com/orhun/binsider      | A terminal UI for analyzing ELF binaries                 | MIT or Apache-2.0 |
+| <img align="left" src="assets/trippy_light.png#gh-dark-mode-only" width="200"> <img align="left" src="assets/trippy_dark.png#gh-light-mode-only" width="200">         | **Trippy**     | https://github.com/fujiapple852/trippy | A network diagnostic tool                                | Apache-2.0        |
+| <img align="left" src="assets/grindhouse_light.png#gh-dark-mode-only" width="200"> <img align="left" src="assets/grindhouse_dark.png#gh-light-mode-only" width="200"> | **Grindhouse** | https://github.com/grindhousedev       | A community for for developers, artists, and visionaries |                   |
 
 ## Contact ✉️
 
